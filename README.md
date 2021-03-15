@@ -1,4 +1,6 @@
-### Hi there 👋
+###
+
+<p align="center"><img width="64px" height="64px" src="https://github.com/yeoffrey/yeoffrey/blob/main/geoff.jpg"></p>
 
 <!--
 **yeoffrey/yeoffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
