@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [The Beyond the End Minecraft Mod](https://github.com/yeoffrey/1.19.2-Modding)
 
-- 🌱 I’m currently learning **Minecraft Forge,**
+- 🌱 I’m currently learning **Minecraft Forge, React and Accessible Web Design**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/geoffreybel/](https://www.linkedin.com/in/geoffreybel/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/geoffreybel/](https://www.linkedin.com/in/geoffreybel/)
 
-- ⚡ Fun fact **I am very tall (6 foot 5 inches)**
+- ⚡ Fun fact: **I am very tall (6 foot 5 inches)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
