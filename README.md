@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [The Beyond the End Minecraft Mod](https://github.com/yeoffrey/1.19.2-Modding)
 
-- 🌱 I’m currently learning **Minecraft Forge, React and Accessible Web Design**
+- 🌱 I’m currently learning **React, Forge and Accessible Web Design**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/geoffreybel/](https://www.linkedin.com/in/geoffreybel/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yeoffrey](https://www.linkedin.com/in/yeoffrey)
 
 - ⚡ Fun fact **I am very tall (6 foot 5 inches)**
 
