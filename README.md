@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeoffrey&label=Profile%20views&color=0e75b6&style=flat" alt="yeoffrey" /> </p>
 
+<p align="left"> <a href="https://twitter.com/appataylor" target="blank"><img src="https://img.shields.io/twitter/follow/appataylor?logo=twitter&style=for-the-badge" alt="appataylor" /></a> </p>
+
 - 🔭 I’m currently working on [The Beyond the End Minecraft Mod](https://github.com/yeoffrey/1.19.2-Modding)
 
 - 🌱 I’m currently learning **Minecraft Forge, React and Accessible Web Design**
 
+- 🤝 I’m looking for **a mentor in front end development**
+
 - 📫 How to reach me: **[email me!](mailto::geoffreybelcher@icloud.com)**
 
-- 📄 Know about my experiences [linkedin.com/in/yeoffrey](https://www.linkedin.com/in/yeoffrey)
+- 📄 Know about my experiences [https://www.linkedin.com/in/geoffreybel/](https://www.linkedin.com/in/geoffreybel/)
 
 - ⚡ Fun fact **I am very tall (6 foot 5 inches)**
 
