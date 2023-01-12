@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Minecraft Forge, React and Accessible Web Design**
 
-- 🤝 I’m looking for **a mentor in front end development**
+- 🤝 I’m looking for **a mentor in software development**
 
 - 📫 How to reach me: **[email me!](mailto::geoffreybelcher@icloud.com)**
 
