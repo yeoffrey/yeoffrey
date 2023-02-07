@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Geoffrey Belcher</h1>
-<h3 align="center">An enthusiastic frontend developer from Canada</h3>
+<h3 align="center">I'm a software developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeoffrey&label=Profile%20views&color=0e75b6&style=flat" alt="yeoffrey" /> </p>
 
 - 🔭 I’m currently working on [The Beyond the End Minecraft Mod](https://github.com/yeoffrey/1.19.2-Modding)
 
-- 🌱 I’m currently learning **Minecraft Forge, React and Accessible Web Design**
+- 🌱 I’m currently learning **React and Accessible Web Design**
 
 - 🤝 I’m looking for **a mentor in software development**
 
