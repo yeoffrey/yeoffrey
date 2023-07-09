@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeoffrey&label=Profile%20views&color=0e75b6&style=flat" alt="yeoffrey" /> </p>
 
-- 🔭 I’m currently working on [my personal website](https://geoffreybelcher.com/)
-
-- 🌱 I’m currently learning **APIs, Rust and Go**
-
-- 🤝 I’m looking for **a mentor in software development**
-
 - 📫 How to reach me: **[email me!](mailto::geoffreybelcher@icloud.com)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/geoffreybel/](https://www.linkedin.com/in/geoffreybel/)
@@ -17,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/appataylor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="appataylor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yeoffrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeoffrey" height="30" width="40" /></a>
 </p>
 
