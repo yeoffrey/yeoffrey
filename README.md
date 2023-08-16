@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **[email me!](mailto::geoffreybelcher@icloud.com)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/geoffreybel/](https://www.linkedin.com/in/geoffreybel/)
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/yeoffrey/)
 
 - ⚡ Fun fact **I am very tall (6 foot 5 inches)**
 
