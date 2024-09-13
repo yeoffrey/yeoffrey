@@ -8,7 +8,7 @@ I'm **Geoff**, a junior software developer based in Toronto with a strong passio
 
 <br>
 
-Ever since I joined GitHub **5** years ago, I pushed **260** commits, opened **11** issues, submitted **23** pull requests, received **4** stars across **17** personal projects, and contributed to **12** public repositories.
+Ever since I joined GitHub **5** years ago, I pushed **260** commits, opened **13** issues, submitted **23** pull requests, received **4** stars across **17** personal projects, and contributed to **12** public repositories.
 
 - ⚙️ I use daily: `.ts`, `.js`, `.py`, `.rs`, `.yml`
 - 💼 I work at [OceanSync](https://oceansync.com) as a junior developer
