@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm **Geoff**, a junior software developer based in Toronto with a strong passion for all things programmable.
+I'm **Geoff**, a software developer based in Toronto with a strong passion for all things programmable.
 
 [![views](https://komarev.com/ghpvc/?username=yeoffrey&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/yeoffrey)
 
